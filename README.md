@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# play-store-apps-analysis
-=======
 # Google Play Store Apps Analysis
 "**[Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)**" veri setini kullanarak Google Play Store'daki uygulama verilerindeki uygulama kategorileri, kullanıcı puanları, yüklenme sayıları ve diğer çeşitli metrikler arasındaki ilişkileri analiz amaçlı geliştirilen projedir. Verilerin analiz edilmesi, ön işlemden geçirilmesi, temizlenmesi ve görselleştirilmesi adımlarını içermektedir.
 
@@ -82,4 +79,3 @@ Projenin kaynak kodları GooglePlayStoreAnalysis.ipynb adlı Jupyter Notebook do
     pip install pandas numpy matplotlib seaborn jupyter
     ```
 3. GooglePlayStoreAnalysis.ipynb dosyasını bir Jupyter Notebook ortamında açın ve hücreleri sırasıyla çalıştırın.
->>>>>>> 1c7bb27 (Uploaded project files)
